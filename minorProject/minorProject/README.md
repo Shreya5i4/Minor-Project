@@ -133,9 +133,3 @@ After successfully running the command, you will see output similar to the follo
 Starting development server at http://127.0.0.1:8000/
 ```
 Open a web browser and go to the address http://127.0.0.1:8000/ to view the running Django application.
-
-## Contributors
-- [![Biplab Gorain](https://github.com/BiplabGorain.png?size=50)](https://github.com/BiplabGorain) [Biplab Gorain](https://github.com/BiplabGorain)
-- [![Bishnu Sharma](https://github.com/vishnusharma7.png?size=50)](https://github.com/vishnusharma7) [Bishnu Sharma](https://github.com/vishnusharma7)
-- [![Sheela Bhattacharjee](https://github.com/Sheelabhattacharjee.png?size=50)](https://github.com/Sheelabhattacharjee) [Sheela Bhattacharjee](https://github.com/Sheelabhattacharjee)
-- [![Projjal Mitra](https://github.com/PROJJALL.png?size=50)](https://github.com/PROJJALL) [Projjal Mitra](https://github.com/PROJJALL)
